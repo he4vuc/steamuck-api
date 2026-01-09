@@ -1,0 +1,13 @@
+-- Tomb Raider: Anniversary
+-- AppID 8000 | Generated on 2026-01-07 08:23 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(8000, 1, "8fde03549e9aa22f0bd941940e189b2ff8fb85fd1558de99bd94785d60f43a0d")
+
+-- Content Depots (5)
+addappid(8001, 1, "4e1307023822badbbf24311cd61f7a64e6e36f9b31d3548cad45ecf53e5c2b64") -- Tomb Raider Anniversary binaries
+addappid(8002, 1, "566e41ba63d701ebf6f145e2c0836504c38a36c476806f81de5b80ea2b253223") -- Tomb Raider Anniversary content1
+addappid(8003, 1, "d4e8812e53cb24d184fa2f43f3628cb4cbf34292801a6cee8c466e516bf78199") -- Tomb Raider Anniversary content2
+addappid(8004, 1, "85a3d729a50020ae5ee44b40241e3f00e970cdcaed1a58f3398119d3ff2504f4") -- Tomb Raider: Anniversary Mac App
+addappid(8005, 1, "2e7e2b94a64f32b584f5e3c86fd299420ce019d2930756ab6fd93a077f52de47") -- Tomb Raider: Anniversary Mac Data

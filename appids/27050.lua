@@ -1,0 +1,10 @@
+-- FATALE
+-- AppID 27050 | Generated on 2026-01-07 11:57 UTC | steamuck.com
+
+-- Main Application
+addappid(27050)
+
+-- Content Depots (3)
+addappid(27051, 1, "afc98e8f49aa8bd24c255d68b2ad34b48098c321c37e3b4c5244b03158af43a5") -- FATALE content
+addappid(27052, 1, "b75f4c9ee00b13733e43638f19bb11f159388c64eaadbf1f9067e37d63624ae3") -- fatale mac content
+addappid(27053, 1, "a24854787db7fda9cde5ab2a7b4a1babe6c68c865d2d0aa6bb31ea8dc7aec322") -- FATALE Depot Linux

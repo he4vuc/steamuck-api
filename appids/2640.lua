@@ -1,0 +1,15 @@
+-- Call of Duty: United Offensive
+-- AppID 2640 | Generated on 2026-01-07 07:10 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(2640, 1, "eb8629b36678a93c10d71128deb2346788b36d05ca5dc8d8355aaf3625de5003")
+
+-- Content Depots (4)
+addappid(2641, 1, "36f1541ab1d713a20a676d2a797a0827e02e423ab89565e65791608bc2222da4") -- Call of Duty United Offensive Content
+addappid(2642, 1, "04bf9fd8c34331f7f1e3270ce1f5e39aeae22532f11b1d606d316d8380f26472") -- Call of Duty: United Offensive English
+addappid(2643, 1, "b09d9e478376212e6d088091efeb0247b6333bec6ffa2704639607c1444773f4") -- Call of Duty: United Offensive Italian
+addappid(2644, 1, "61f34a50c83de39dba6b02810d0d3a8a562758d56c45fdee47e50db543dfbb3c") -- Call of Duty: United Offensive French
+
+-- Shared Depots (1)
+addappid(2621, 1, "5491a58960839f2a84d89ab4f60ba804a9223e294e009e546b5a583326628691") -- Call of Duty Content (from 2620)

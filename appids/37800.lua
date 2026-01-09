@@ -1,0 +1,9 @@
+-- QuantZ
+-- AppID 37800 | Generated on 2026-01-07 13:38 UTC | steamuck.com
+
+-- Main Application
+addappid(37800)
+
+-- Content Depots (2)
+addappid(37801, 1, "4db7a920dd979b555c3e4000a9edcdc1dae730639d86c727e8086dfbe3644817") -- QuantzDepot
+addappid(37802, 1, "56000aaca37c522bc7a2cfa71799ebdea27031b7d0588b502fd987d835298eac") -- quantz mac content

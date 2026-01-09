@@ -1,0 +1,9 @@
+-- Valerie Porter
+-- AppID 37380 | Generated on 2026-01-07 13:35 UTC | steamuck.com
+
+-- Main Application
+addappid(37380)
+
+-- Content Depots (2)
+addappid(37381, 1, "0085776622be97d73a0e1a1bd9e7a50f392aad0d021d104ded0c52acd83cf4a0") -- Valerie Porter Content
+addappid(37382, 1, "97853dfe1f686a419e90e8a9466b3829d1e6f1c47ac04a3545e686c65c914e8c") -- valerie porter mac content

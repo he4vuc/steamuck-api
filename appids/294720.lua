@@ -1,0 +1,15 @@
+-- Putt-Putt and Fatty Bear's Activity Pack
+-- AppID 294720 | Generated on 2026-01-08 23:19 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(294720, 1, "e86c264673d90df484d563777659fc2cc951939ab915819aa907b03b29640e40")
+
+-- Content Depots (7)
+addappid(294721, 1, "c33e59b17d3c37295ad97e16fbe7c866478c5fba85026de85c8c82f6875b9733") -- Putt-Putt and Fatty Bear's Activity Pack Windows Executables
+addappid(294722, 1, "d189867ce2b9a489d1c360cec2887ff953e94720dd31aa43a25ada5169d04aff") -- Putt-Putt and Fatty Bear's Activity Pack Mac Executables
+addappid(294723, 1, "fee9a30c9038f4efcd427c386de58e7eab11d8bed06975c867e1baeb8bf397ba") -- Putt-Putt and Fatty Bear's Activity Pack Linux Executables
+addappid(294724, 1, "a26398b622ad10db238cef4304ac6ed84779e346c9f33a48e2d37c316a15161c") -- Putt-Putt and Fatty Bear's Activity Pack Game Files - English
+addappid(294725, 1, "1ac55a1d2e39e513fce6edc339b5e43519264c1865389168bfdd6fd446568e56") -- Putt-Putt and Fatty Bear's Activity Pack Windows English INI
+addappid(294726, 1, "0c42e569c73e9bc27ee104d03140ccb6eb2a46f1be049ad960dc91691d41e0fa") -- Putt-Putt and Fatty Bear's Activity Pack Mac English INI
+addappid(294727, 1, "b8ed8669c7d8eee76be60de4cb5b8c7f8fbb9f7174b5671c954115875b05a70b") -- Putt-Putt and Fatty Bear's Activity Pack Linux English INI

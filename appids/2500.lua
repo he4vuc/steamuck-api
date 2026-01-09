@@ -1,0 +1,13 @@
+-- Shadowgrounds
+-- AppID 2500 | Generated on 2026-01-07 07:06 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(2500, 1, "1d2a0f50178c5f1699b0baef5082a1a1b561e180d673cb5a18577d3fc8bc3e58")
+
+-- Content Depots (5)
+addappid(2501, 1, "e8c58658a9c62b2db8ca2f4cb610342ae13facdea36dbf8c5aa31ff408aa3e97") -- shadowgrounds content
+addappid(2502, 1, "7270ca57b5d16c083a5f828afbc7a03b3f465d9017f30884bfb92d8078a11a1a") -- Shadowgrounds French
+addappid(2503, 1, "e212fb9ee8ee4de4c73a7771d1b0c30c8824a47b2e54217d3f07b7ebea569d21") -- Shadowgrounds German
+addappid(2504, 1, "d336d1ff084b90995d616125ba0f3533116ad9074b425a833c4332e68e3144fe") -- Shadowgrounds Spanish
+addappid(2506, 1, "bcf8b6d89abbb3c2469ab1d6e5de74c4dba58436246e4d682f41944294fbac30") -- shadowgrounds mac content

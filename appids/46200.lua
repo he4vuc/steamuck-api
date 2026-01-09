@@ -1,0 +1,17 @@
+-- A.I.M. Racing
+-- AppID 46200 | Generated on 2026-01-07 15:28 UTC | steamuck.com
+
+-- Main Application
+addappid(46200)
+
+-- Content Depots (7)
+addappid(46201, 1, "5b88972e02b2014fa59e8511bd9941ec4864b98a4f47a02610149c7e5af7b5c9") -- A.I.M. Racing content
+addappid(46202, 1, "8965d070fa206dedc4394d332580693da195a32d9a6e35f8fc4693c260b3ad9d") -- A.I.M. Racing French
+addappid(46203, 1, "39011f8f030c7e192863c6d4eaaa09aaadfdede851a6ccc6119bdedc045d662b") -- A.I.M. Racing Italian
+addappid(46204, 1, "8be153f520d72d4b62ecef61f1cbab24b3cf84da81bdfab865179d7b357b9ccb") -- A.I.M. Racing Spanish
+addappid(46205, 1, "9d32b5161c591ee622c4d09b6a7a9909fb4550205490927dec69efc815d5275b") -- A.I.M. Racing Russian
+addappid(46206, 1, "6f29311a06918e8c4f4ec680631bf0ba23fe9692911eace1304d121d281556d5") -- A.I.M. Racing German
+addappid(46207, 1, "8aaf4aae3e660b54b0124aa3db6ede79b1e8efc9b801b6a6e9007180a7aad642") -- A.I.M. Racing Czech
+
+-- Shared Depots (1)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (from 228980)

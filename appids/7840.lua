@@ -1,0 +1,13 @@
+-- Death Track: Resurrection
+-- AppID 7840 | Generated on 2026-01-07 08:21 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(7840, 1, "588e1ebc387c052b456b3c4175adb9cfc83aad7f3bc587b3ec00f5e5a7d1f0e2")
+
+-- Content Depots (5)
+addappid(7841, 1, "d31d96335a4685218b5ebc071ad85832ceafc6ae27c2a2e6295ac55aecc1f8c4") -- death_track
+addappid(7842, 1, "2c2ac38514d6bdcb91a6194c1d2f0e45da4e4367a30754a94404217234870509") -- Death Track: Resurrection French
+addappid(7843, 1, "2bbea71767e6e9b256aec4457f591c38bef2c6e369caefeb7e4bfdb6944330c2") -- Death Track: Resurrection German
+addappid(7844, 1, "cb702d1036e0b7341850437615837922a5be07a8da1b1118b78f61348405987f") -- Death Track: Resurrection Italian
+addappid(7845, 1, "d8e3d239f4fa36d398715adaf13cb137c75016178e4252d0821bc569c7866600") -- Death Track: Resurrection Spanish

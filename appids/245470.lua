@@ -1,0 +1,39 @@
+-- Democracy 3
+-- AppID 245470 | Generated on 2026-01-08 13:00 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(245470, 1, "b0d4d4205a5c66bc28cebefc5025c8c19d94f8b82b1988f9d1ddae5d9b362050")
+
+-- Content Depots (12)
+addappid(245471, 1, "c86dcb2c1bfe619e5aa248a6145b30f27e5f129800418524cf74c4c6786dcca0") -- Democracy 3 Windows
+addappid(245472, 1, "6571eaa85d49e8ee5319954cd81d68cbe04440dc2aa06aa123760ad089dfd9ee") -- Democracy 3 OSX
+addappid(245473, 1, "bcf8349cd17ae258a96a18b588b0311af7a20a702a616054cc4882cdf6eef840") -- Democracy 3 Linux
+addappid(245474, 1, "eedb8d842d09c095d831baaa92228cfba18bc969a7104bea7820d58dd59d08e9") -- Democracy 3 Windows (German)
+addappid(245475, 1, "0da057f2bba6de498444cd99200afed182400a7f3377bb6ca5e6684478685bcc") -- Democracy 3 OSX (German)
+addappid(245476, 1, "c13f1f62b8c1392e3a9f589b440a62723678b32b24e1455d99f57dcdbc1075bb") -- Democracy 3 Linux (German)
+addappid(245477, 1, "05e2978ce57ffaa4b34677dbf702567fcf88b0befe8dba33226f9102d3612ff2") -- Democracy 3 Windows (French)
+addappid(245478, 1, "1165968a0c8e777f310ba26c2041143d1b0002321e3e8c082194b8b0cfe6106d") -- Democracy 3 OSX (French)
+addappid(245479, 1, "05f52f4a0be2666c44f921385c478ee58d6c9fe904e9e7b78c0a0ea17c6cca87") -- Democracy 3 Linux (French)
+addappid(245481, 1, "1b6a8ba1c760e1b08d3353454ee1d4a128e947dda17db72407f2782ddb713e72") -- Democracy 3 Windows (Polish)
+addappid(322001, 1, "3b57001cb3ba92dbb8f76057bbbc9ef95a2476cc5026d4356bfdbbc422b5fd96") -- Democracy 3 Clones & Drones Linux
+addappid(322002, 1, "8a1516ac9b4519cd923d1a1888f074b2c7da799166ea8367c92bdda4af83ae07") -- Democracy 3 Clones & Drones Mac
+
+-- Shared Depots (2)
+addappid(228985, 1, "21a2f639584d9bd462c5c4b3e10f881cba8a17ae674c830c4f083551cd356e9c") -- VC 2013 Redist (from 228980)
+addappid(228990, 1, "44d8c45ce229a11c4f231a3d2a350eaf80b0d69a8af938ec7ccca720f694b0e8") -- DirectX Jun 2010 Redist (from 228980)
+
+-- DLCs with Content (8)
+addappid(274050, 1, "38246b3a6eaadc88adb671cc8f8af9aacc854cb5fd86c087a54518915e49e820") -- Democracy 3 Social Engineering
+addappid(245480, 1, "f1fe61986b808c15c50621cb191d41e639ec802bb8166a5bea701b02a108fd91")
+addappid(483450, 1, "69a1e23e745455dcd51e88964bc4a19360f38649c2c98b981d7288e050b09216") -- Democracy 3 Electioneering
+addappid(245484, 1, "3f60662874fc9c6af1f04d9fcc5b59bc72e696752e8abcb68575519fba7a8489")
+addappid(245485, 1, "f92462e6321d1b8e4d020c5ac45f09227e3b1177541b164ea28bbdfdf5b6ded0")
+addappid(322000, 1, "a1b9dad220806d4809cc4f5541945ea25e813dbbd6dab6ff4c6e6ea3d429aa74") -- Democracy 3 Clones and Drones
+addappid(245483, 1, "d554d321c1f22eaf7dd0456dcd64e72d9cb9ffd5c451f5cd8779abcf15725bc3")
+addappid(277530, 1, "1f824f87d7cab9085917ab940a8c9cca0c6128c3c766239bbfe189670420a52f") -- Democracy 3 Social Engineering Mac
+addappid(277531, 1, "7f0b913604e4ae44e566f7e951a03d6400df7912d2288c6f5f850e877cb85bba") -- Democracy 3 Social Engineering Linux
+addappid(291900, 1, "a1efad166b08e440360d5a14f8437418cf80cc49c6785f1d53352bc15fd3b6d8") -- Democracy 3 Extremism
+addappid(245482, 1, "3ddee3eeb940de8f4902022dfab515cc2dd2f1ca90f5f3eb7972df1025fa5155")
+addappid(291901, 1, "2f45b4251c06952cb0cf1774f226b4d87c841441666f584db45e792c27a010b6") -- Democracy 3 Extremism Mac
+addappid(291902, 1, "4baaecce4ddf393676b896b143b86f0f9bad55ec44f6b7f6308aced3f31280e4") -- Democracy 3 Extremism Linux

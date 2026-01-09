@@ -1,0 +1,8 @@
+-- For The Glory
+-- AppID 42810 | Generated on 2026-01-07 14:54 UTC | steamuck.com
+
+-- Main Application
+addappid(42810)
+
+-- Content Depots (1)
+addappid(42811, 1, "c624ca5f2d8e7814a427471e93715296b308ad878d2cb7f3bf0182de5657aaa2") -- for_the_glory_content

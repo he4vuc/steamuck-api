@@ -1,0 +1,51 @@
+-- Hitman: Absolution
+-- AppID 203140 | Generated on 2026-01-07 15:23 UTC | steamuck.com
+-- Note: This game supports Steam Workshop content
+
+-- Main Application
+addappid(203140, 1, "38acff3963fd343d79a2446b320ab99bd1fe6b720f821a6cf76d20557f9f9913")
+
+-- Content Depots (27)
+addappid(203141, 1, "dcc91556c4d852727be05a24754a39b6e2e78e084a14b49793d6b4715427bf46") -- Main Content
+addappid(203142, 1, "96c5165b779f74214d9514523e2a3636692362c74415fabbb284f77e4e07d150") -- Executable
+addappid(203143, 1, "4672ea1ab6a957bccfcf9e6ac550ca1fc7dcdd96121c1be6cba1650a0c0460c3") -- English
+addappid(203144, 1, "719fdaccbaad26c8966202100749c17969c7d54e658ccd618d9f9368ea7e96f5") -- French
+addappid(203145, 1, "11878955afcc1ebfb88eeeeef844676a8119f135ca46d09bd5e7940b37b01eef") -- Italian
+addappid(203146, 1, "4db5edcc515461e9f48171e88dc0ace8d54171f471958012d48f97f032bd3a43") -- German
+addappid(203147, 1, "92cb51cf62bc09e042fd2faa8f6a54951e39db4b3008aa51fc4f07d958dcfb75") -- Spanish
+addappid(203148, 1, "d993ebfcfe6d5b7ec92f6a69009675b5d2922e3e5c17c1ca0eb30564f8e07c6f") -- Russian
+addappid(203149, 1, "445f59e9639cbd2e8d0e5632e6b8ce7ed69888c6eb1da94483ca435bd07c708a") -- Polish
+addappid(203150, 1, "834e05d6d358030dd02e4dd06cf20558280bb7ebf8cd31f3258ab6f54aae1ea7") -- Japanese
+addappid(203151, 1, "c655e68c64b2679d1e53be8bf4d4f7c0ff309fab34c209c525fbb5b509c76bbf") -- Turkish
+addappid(203152, 1, "4fbf3c5432a8351a9d2cecf30f59a37f90b777532e7ce3bee5225f19954e92a4") -- Debug files
+addappid(203153, 1, "23b2010a4d15732743f19b08431a0a0bdc41e428a06045e43395ac3009c8119e") -- EFIGSRPT SKU
+addappid(203154, 1, "37ca6384a7a859120c463922a47bac5256446e6001c6b540ee304ffdb2730fdd") -- Russian SKU
+addappid(203155, 1, "935e7d6db4adb98be2c96309d087117494b24c9e6c1bea30e57a1978cb7c7bba") -- Japanese SKU
+addappid(203156, 1, "f2011a5459624885290cfe661e3b5936036e9c18043f1dc9d96ead8cc326d4bb") -- Professional Edition Art Content
+addappid(203157, 1, "1e3c6c2b9f0d9df3b541361bfdcbae5fee53c3accec6c7307c20cd227e5ea9a5") -- Mac Main Content
+addappid(203158, 1, "1839e868888791083cef441013eaa167cbd136f15bfbd68d344dbe9562381ce9") -- Mac Executable
+addappid(203159, 1, "1943cb654d595b5a903e76ce94bd8ec685a588cf6db740b5965df2e1ca2d648f") -- Mac English
+addappid(266891, 1, "0ceb49aa51639268e82f1dde89a8be52625b0bf376ea770d96183d7f3bdc81c3") -- Mac French
+addappid(266892, 1, "6c928b37806a30e202bbdc47aaac89efdb871db68e1f55573d389db89a0ab3ba") -- Mac Italian
+addappid(266893, 1, "d5d75d8b47c04d6f1b62e5f267ea6a07817d00d18ade0d284437c4e459701e97") -- Mac German
+addappid(266894, 1, "5c278489efd5ce5cbeb1fe3579489a8d03d6dd0173b244234a8ba50777badc7b") -- Mac Spanish
+addappid(266895, 1, "9e034c49d8f25be672ca5d409bc4ba9a701eaf685a904e93cf11e7f8f6202c33") -- Mac Russian
+addappid(266896, 1, "dd8d8e0f535ac3d6873bd372303c08b5ddb530e42309a724f120ae87c136bddc") -- Mac Polish
+addappid(266898, 1, "ba19e7fe17f8c119d2596321638719bfa153fb81c1f92302a2026957d980623f") -- Mac Turkish
+addappid(267011, 1, "d834537971cc737a963b9e0de93d9e181c6789bc6d7dec7dd840e1f28102cd94") -- Professional Edition Art Content
+
+-- DLCs with Content (11)
+addappid(216416, 1, "3024db8f0d9b41325a7eb0c4d1346395a4ab75a85b935903105de6c16894fcdd") -- Hitman Absolution - Bronson M1928 Gun
+addappid(216417, 1, "c8c1e2bce758d7996b9d6386cf439351a717e05390ff889464bf8ab66542de36") -- Hitman Absolution - High Tech Disguise 
+addappid(216418, 1, "b134fe02aafa3baccc831ac596a760fde5d8dbde4affc8c11f0e452e96040ae1") -- Hitman Absolution - High Roller Disguise
+addappid(216419, 1, "612e4283165d195e3df60a1228fd97344a9a0ba9f6cfda8166655feee3db2567") -- Hitman Absolution - Public Enemy Disguise
+addappid(216420, 1, "a92a82a61b550f2b2513b1d708f3f22f5a74ae083128642620c89cc691f149f6") -- Hitman Absolution - Deus Ex (Adam Jensen) Disguise
+addappid(216421, 1, "2b03d7598c37d8620bc23d4f960f70438eadcda70624bb8d6da7c0cd1fd30b2b") -- Hitman Absolution - Deus Ex (Adam Jensen) Handgun
+addappid(216411, 1, "1f2f85d1ec693780d4a8726f7e47206a90d8d0b1db4b6f4193cf145fbae74b6d") -- Hitman Absolution - Agency Jagd P22G 
+addappid(216412, 1, "3f7dacd7710f8dcdad1bf0deda65f3d3bee916a8b4bb8c4dfeb558e63fedd60c") -- Hitman Absolution - Agency SPS 12
+addappid(216413, 1, "60c47f77740879ddf6bbd89e4923503e8e911b29471fd5487021dc7c665e44cc") -- Hitman Absolution - Agency HX UMP
+addappid(216414, 1, "b36ac076bbb8f818572a92889a6e3cd165a75992fb67586ae1144ebd06b5bf10") -- Hitman Absolution - Bartoli Custom Gun
+addappid(216415, 1, "12645550cce3e9403a0a104081b62dd2502e348d889c005f1790742a52936f54") -- Hitman Absolution - Krugermeier 2-2 Gun
+
+-- DLCs without Dedicated Depots (1)
+addappid(216429) -- Hitman Absolution - Sniper Challenge Unlock

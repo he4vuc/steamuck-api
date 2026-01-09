@@ -1,0 +1,10 @@
+-- Sacraboar
+-- AppID 40500 | Generated on 2026-01-07 14:21 UTC | steamuck.com
+
+-- Main Application
+addappid(40500)
+
+-- Content Depots (3)
+addappid(40501, 1, "5aa4e27290eaba4bffa9def5f0c05c48be864bca99e7d974df4ab0026a1aa743") -- Sacraboar Common
+addappid(40502, 1, "a9ea77f40c2be73c48623eb325707962804c4c9bf5036b210829a924a29f0971") -- Sacraboar English
+addappid(40503, 1, "9662ddf0ce32f5753404f4276da9fc40df661f5318f0edadb5ac4f93cffc2961") -- Sacraboar German
