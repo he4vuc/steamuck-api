@@ -1,4 +1,4 @@
--- Train Simulator: Class 170 â€˜Turbostarâ€™ DMU Add-On
+-- Train Simulator: Class 170 Ã¢â‚¬ËœTurbostarÃ¢â‚¬â„¢ DMU Add-On
 -- AppID 208364 | Generated on 2026-01-07 23:56 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- Train Simulator: LNER/BR Class A1 â€˜Tornadoâ€™ Loco Add-On
+-- Train Simulator: LNER/BR Class A1 Ã¢â‚¬ËœTornadoÃ¢â‚¬â„¢ Loco Add-On
 -- AppID 208351 | Generated on 2026-01-07 23:48 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- Call of DutyÂ®: Black Ops II Revolution
+-- Call of DutyÃ‚Â®: Black Ops II Revolution
 -- AppID 219097 | Generated on 2026-01-07 09:00 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- Train Simulator: LNER Class A3 â€˜Flying Scotsmanâ€™ Loco Add-On
+-- Train Simulator: LNER Class A3 Ã¢â‚¬ËœFlying ScotsmanÃ¢â‚¬â„¢ Loco Add-On
 -- AppID 208363 | Generated on 2026-01-07 23:55 UTC | steamuck.com
 -- Type: DLC
 

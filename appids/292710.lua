@@ -1,8 +1,8 @@
--- LEGOÂ® The Hobbitâ„¢ DLC 1 - The Big Little Character Pack
+-- LEGOÃ‚Â® The HobbitÃ¢â€Â¢ DLC 1 - The Big Little Character Pack
 -- AppID 292710 | Generated on 2026-01-08 22:24 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: LEGOÂ® The Hobbitâ„¢
+-- Base Game: LEGOÃ‚Â® The HobbitÃ¢â€Â¢
 addappid(285160)
 
 -- Main Application

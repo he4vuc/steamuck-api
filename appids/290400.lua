@@ -1,4 +1,4 @@
--- Child of Light DLC 1 -The Golemâ€™s Plight Pack
+-- Child of Light DLC 1 -The GolemÃ¢â‚¬â„¢s Plight Pack
 -- AppID 290400 | Generated on 2026-01-08 21:28 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- DLC #1 - Kovacâ€™s Way
+-- DLC #1 - KovacÃ¢â‚¬â„¢s Way
 -- AppID 289730 | Generated on 2026-01-08 21:16 UTC | steamuck.com
 -- Type: DLC
 

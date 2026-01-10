@@ -1,4 +1,4 @@
--- STAR WARSâ„¢ Jedi Knight: Jedi Academyâ„¢
+-- STAR WARS Jedi Knight: Jedi Academy
 -- AppID 6020 | Generated on 2026-01-07 07:57 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

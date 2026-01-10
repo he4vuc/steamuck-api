@@ -1,4 +1,4 @@
--- Far CryÂ® 3 Blood Dragon
+-- Far CryÃ‚Â® 3 Blood Dragon
 -- AppID 233270 | Generated on 2026-01-08 09:51 UTC | steamuck.com
 -- Warning: This game uses DRM (Ubisoft Connect)
 -- Note: This game supports Steam Workshop content

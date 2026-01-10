@@ -1,4 +1,4 @@
--- Zombie Playgroundâ„¢
+-- Zombie PlaygroundÃ¢â€Â¢
 -- AppID 215550 | Generated on 2026-01-08 03:33 UTC | steamuck.com
 
 -- Main Application

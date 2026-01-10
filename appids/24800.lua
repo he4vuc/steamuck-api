@@ -1,4 +1,4 @@
--- Command & Conquerâ„¢ Red Alertâ„¢ 3 - Uprising
+-- Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3 - Uprising
 -- AppID 24800 | Generated on 2026-01-07 11:33 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
@@ -15,9 +15,9 @@ addappid(24806, 1, "0467e7cf79927de92c87c97ed7b9d71e2da337776b147de287cde88898fe
 addappid(24807, 1, "db5e8582c36f5689d582bf91bb0f02b1d10e819e03925e1dfb60e1e27e6ea9f7") -- Command and Conquer: Red Alert 3 - Uprising Polish
 addappid(24808, 1, "e4f499b13b7ad692f739592c909cf8a610274d36e289f0687936b2566bcd44b4") -- Command and Conquer: Red Alert 3 - Uprising Russian
 addappid(24809, 1, "de15fbd7bcdc277174efb2de291d7d2084279fcf5d8d025e1bc4725b6d19c305") -- Command and Conquer: Red Alert 3 - Uprising Spanish
-addappid(3287100, 1, "a537518f643ea14c1564d7bf33162e6f5433c5281122d92434f9e0600ae7e2e3") -- Command & Conquerâ„¢ Red Alertâ„¢ 3 - Uprising - Content
-addappid(3287101, 1, "29c5c618b4a7a67bbe05df51eb1cc89172b5e200ac1130617675dbf17319b314") -- Command & Conquerâ„¢ Red Alertâ„¢ 3 - Uprising - Content
-addappid(3287102, 1, "7b9ba08977ff339cc698584fb8fc5b8fac0cabe73435226e569bd1ababf0f206") -- Command & Conquerâ„¢ Red Alertâ„¢ 3 - Uprising - Content
+addappid(3287100, 1, "a537518f643ea14c1564d7bf33162e6f5433c5281122d92434f9e0600ae7e2e3") -- Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3 - Uprising - Content
+addappid(3287101, 1, "29c5c618b4a7a67bbe05df51eb1cc89172b5e200ac1130617675dbf17319b314") -- Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3 - Uprising - Content
+addappid(3287102, 1, "7b9ba08977ff339cc698584fb8fc5b8fac0cabe73435226e569bd1ababf0f206") -- Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3 - Uprising - Content
 
 -- Shared Depots (2)
 addappid(228981, 1, "9afdbd47677424be993f6b516a15ebdb5281aa318114631d14b2b23999ae97ac") -- VC 2005 Redist (from 228980)

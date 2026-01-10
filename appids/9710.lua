@@ -1,4 +1,4 @@
--- Desperados 2: Cooperâ€™s Revenge
+-- Desperados 2: Coopers Revenge
 -- AppID 9710 | Generated on 2026-01-07 08:40 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

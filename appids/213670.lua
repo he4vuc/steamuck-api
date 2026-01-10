@@ -1,4 +1,4 @@
--- South Parkâ„¢: The Stick of Truthâ„¢
+-- South ParkÃ¢â€Â¢: The Stick of TruthÃ¢â€Â¢
 -- AppID 213670 | Generated on 2026-01-08 02:25 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

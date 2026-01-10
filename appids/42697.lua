@@ -1,8 +1,8 @@
--- Call of DutyÂ®: Modern WarfareÂ® 3 (2011) - DLC3
+-- Call of DutyÃ‚Â®: Modern WarfareÃ‚Â® 3 (2011) - DLC3
 -- AppID 42697 | Generated on 2026-01-07 14:50 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: Call of DutyÂ®: Modern WarfareÂ® 3 (2011) - Multiplayer
+-- Base Game: Call of DutyÃ‚Â®: Modern WarfareÃ‚Â® 3 (2011) - Multiplayer
 addappid(42690)
 
 -- Main Application

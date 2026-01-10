@@ -883,7 +883,7 @@
   },
   {
     "appid": 6000,
-    "name": "STAR WARSâ„¢ Republic Commando",
+    "name": "STAR WARSÃ¢â€Â¢ Republic Commando",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -897,14 +897,14 @@
   },
   {
     "appid": 6020,
-    "name": "STAR WARSâ„¢ Jedi Knight: Jedi Academyâ„¢",
+    "name": "STAR WARSÃ¢â€Â¢ Jedi Knight: Jedi AcademyÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 6030,
-    "name": "STAR WARSâ„¢ Jedi Knight II: Jedi Outcastâ„¢",
+    "name": "STAR WARSÃ¢â€Â¢ Jedi Knight II: Jedi OutcastÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -1408,7 +1408,7 @@
   },
   {
     "appid": 9710,
-    "name": "Desperados 2: Cooperâ€™s Revenge",
+    "name": "Desperados 2: CooperÃ¢â‚¬â„¢s Revenge",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -1632,14 +1632,14 @@
   },
   {
     "appid": 10606,
-    "name": "Empire: Total Warâ„¢ - The Warpath Campaign",
+    "name": "Empire: Total WarÃ¢â€Â¢ - The Warpath Campaign",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 10608,
-    "name": "Empire: Total Warâ„¢ - Elite Units of the East",
+    "name": "Empire: Total WarÃ¢â€Â¢ - Elite Units of the East",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -2430,7 +2430,7 @@
   },
   {
     "appid": 16866,
-    "name": "Civilization V - Explorerâ€™s Map Pack",
+    "name": "Civilization V - ExplorerÃ¢â‚¬â„¢s Map Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -2535,7 +2535,7 @@
   },
   {
     "appid": 17480,
-    "name": "Command & Conquerâ„¢ Red Alertâ„¢ 3",
+    "name": "Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -2857,7 +2857,7 @@
   },
   {
     "appid": 21000,
-    "name": "LEGOÂ® Batmanâ„¢: The Videogame",
+    "name": "LEGOÃ‚Â® BatmanÃ¢â€Â¢: The Videogame",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -2892,7 +2892,7 @@
   },
   {
     "appid": 21130,
-    "name": "LEGOÂ® Harry Potter: Years 1-4",
+    "name": "LEGOÃ‚Â® Harry Potter: Years 1-4",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -3501,14 +3501,14 @@
   },
   {
     "appid": 24790,
-    "name": "Command & Conquer 3: Tiberium Warsâ„¢",
+    "name": "Command & Conquer 3: Tiberium WarsÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 24800,
-    "name": "Command & Conquerâ„¢ Red Alertâ„¢ 3 - Uprising",
+    "name": "Command & ConquerÃ¢â€Â¢ Red AlertÃ¢â€Â¢ 3 - Uprising",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -3970,7 +3970,7 @@
   },
   {
     "appid": 32330,
-    "name": "LEGOâ“‡ Indiana Jonesâ„¢: The Original Adventures",
+    "name": "LEGOÃ¢â€¡ Indiana JonesÃ¢â€Â¢: The Original Adventures",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -3991,28 +3991,28 @@
   },
   {
     "appid": 32370,
-    "name": "STAR WARSâ„¢ Knights of the Old Republicâ„¢",
+    "name": "STAR WARSÃ¢â€Â¢ Knights of the Old RepublicÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32380,
-    "name": "STAR WARSâ„¢ Jedi Knight: Dark Forces II",
+    "name": "STAR WARSÃ¢â€Â¢ Jedi Knight: Dark Forces II",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32390,
-    "name": "STAR WARSâ„¢ Jedi Knight: Mysteries of the Sithâ„¢",
+    "name": "STAR WARSÃ¢â€Â¢ Jedi Knight: Mysteries of the SithÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32400,
-    "name": "STAR WARSâ„¢: Dark Forces",
+    "name": "STAR WARSÃ¢â€Â¢: Dark Forces",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -4026,14 +4026,14 @@
   },
   {
     "appid": 32430,
-    "name": "STAR WARSâ„¢: The Force Unleashedâ„¢ Ultimate Sith Edition",
+    "name": "STAR WARSÃ¢â€Â¢: The Force UnleashedÃ¢â€Â¢ Ultimate Sith Edition",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32440,
-    "name": "LEGOÂ® Star Warsâ„¢: The Complete Saga",
+    "name": "LEGOÃ‚Â® Star WarsÃ¢â€Â¢: The Complete Saga",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -4047,21 +4047,21 @@
   },
   {
     "appid": 32470,
-    "name": "STAR WARSâ„¢ Empire at War: Gold Pack",
+    "name": "STAR WARSÃ¢â€Â¢ Empire at War: Gold Pack",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32500,
-    "name": "STAR WARSâ„¢: The Force Unleashedâ„¢ II",
+    "name": "STAR WARSÃ¢â€Â¢: The Force UnleashedÃ¢â€Â¢ II",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 32510,
-    "name": "LEGOÂ® Star Warsâ„¢ III: The Clone Warsâ„¢",
+    "name": "LEGOÃ‚Â® Star WarsÃ¢â€Â¢ III: The Clone WarsÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -4229,7 +4229,7 @@
   },
   {
     "appid": 33390,
-    "name": "ZeitÂ²",
+    "name": "ZeitÃ‚Â²",
     "DRM": "Tages/SolidShield",
     "Workshop": false,
     "Type": null
@@ -5377,21 +5377,21 @@
   },
   {
     "appid": 42695,
-    "name": "Call of DutyÂ®: Modern WarfareÂ® 3 (2011) - Collection 1",
+    "name": "Call of DutyÃ‚Â®: Modern WarfareÃ‚Â® 3 (2011) - Collection 1",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 42696,
-    "name": "Call of DutyÂ®: Modern WarfareÂ® 3 (2011) - DLC2",
+    "name": "Call of DutyÃ‚Â®: Modern WarfareÃ‚Â® 3 (2011) - DLC2",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 42697,
-    "name": "Call of DutyÂ®: Modern WarfareÂ® 3 (2011) - DLC3",
+    "name": "Call of DutyÃ‚Â®: Modern WarfareÃ‚Â® 3 (2011) - DLC3",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -6007,7 +6007,7 @@
   },
   {
     "appid": 47930,
-    "name": "The Simsâ„¢ 3 Pets",
+    "name": "The SimsÃ¢â€Â¢ 3 Pets",
     "DRM": "EA App, SecuROM",
     "Workshop": false,
     "Type": "DLC"
@@ -6588,7 +6588,7 @@
   },
   {
     "appid": 61600,
-    "name": "Zen BoundÂ® 2",
+    "name": "Zen BoundÃ‚Â® 2",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -6973,7 +6973,7 @@
   },
   {
     "appid": 65256,
-    "name": "Train Simulator: BR Class 423 â€˜4VEPâ€™ EMU Add-On",
+    "name": "Train Simulator: BR Class 423 Ã¢â‚¬Ëœ4VEPÃ¢â‚¬â„¢ EMU Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -8044,7 +8044,7 @@
   },
   {
     "appid": 102500,
-    "name": "Kingdoms of Amalur: Reckoningâ„¢",
+    "name": "Kingdoms of Amalur: ReckoningÃ¢â€Â¢",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -8163,14 +8163,14 @@
   },
   {
     "appid": 105800,
-    "name": "PixelJunkâ„¢ Eden",
+    "name": "PixelJunkÃ¢â€Â¢ Eden",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 105802,
-    "name": "PixelJunkâ„¢ Eden - Original Soundtrack",
+    "name": "PixelJunkÃ¢â€Â¢ Eden - Original Soundtrack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -8457,7 +8457,7 @@
   },
   {
     "appid": 200150,
-    "name": "Battle Chess: Game of Kingsâ„¢",
+    "name": "Battle Chess: Game of KingsÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -8793,7 +8793,7 @@
   },
   {
     "appid": 202170,
-    "name": "Sleeping Dogsâ„¢",
+    "name": "Sleeping DogsÃ¢â€Â¢",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -9206,7 +9206,7 @@
   },
   {
     "appid": 204120,
-    "name": "LEGOÂ® Harry Potter: Years 5-7",
+    "name": "LEGOÃ‚Â® Harry Potter: Years 5-7",
     "DRM": "Xbox Live",
     "Workshop": true,
     "Type": null
@@ -10004,7 +10004,7 @@
   },
   {
     "appid": 208140,
-    "name": "ENDLESSâ„¢ Space - Definitive Edition",
+    "name": "ENDLESSÃ¢â€Â¢ Space - Definitive Edition",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -10137,7 +10137,7 @@
   },
   {
     "appid": 208351,
-    "name": "Train Simulator: LNER/BR Class A1 â€˜Tornadoâ€™ Loco Add-On",
+    "name": "Train Simulator: LNER/BR Class A1 Ã¢â‚¬ËœTornadoÃ¢â‚¬â„¢ Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -10186,14 +10186,14 @@
   },
   {
     "appid": 208363,
-    "name": "Train Simulator: LNER Class A3 â€˜Flying Scotsmanâ€™ Loco Add-On",
+    "name": "Train Simulator: LNER Class A3 Ã¢â‚¬ËœFlying ScotsmanÃ¢â‚¬â„¢ Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 208364,
-    "name": "Train Simulator: Class 170 â€˜Turbostarâ€™ DMU Add-On",
+    "name": "Train Simulator: Class 170 Ã¢â‚¬ËœTurbostarÃ¢â‚¬â„¢ DMU Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -10368,7 +10368,7 @@
   },
   {
     "appid": 209000,
-    "name": "Batmanâ„¢: Arkham Origins",
+    "name": "BatmanÃ¢â€Â¢: Arkham Origins",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -10984,7 +10984,7 @@
   },
   {
     "appid": 211740,
-    "name": "Thiefâ„¢ II: The Metal Age",
+    "name": "ThiefÃ¢â€Â¢ II: The Metal Age",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11019,7 +11019,7 @@
   },
   {
     "appid": 211970,
-    "name": "Test DriveÂ®: Ferrari Racing Legends",
+    "name": "Test DriveÃ‚Â®: Ferrari Racing Legends",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -11047,7 +11047,7 @@
   },
   {
     "appid": 212010,
-    "name": "Galaxy on Fire 2â„¢ Full HD",
+    "name": "Galaxy on Fire 2Ã¢â€Â¢ Full HD",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11103,7 +11103,7 @@
   },
   {
     "appid": 212410,
-    "name": "Inversionâ„¢",
+    "name": "InversionÃ¢â€Â¢",
     "DRM": "VAC",
     "Workshop": true,
     "Type": null
@@ -11117,7 +11117,7 @@
   },
   {
     "appid": 212500,
-    "name": "The Lord of the Rings Onlineâ„¢",
+    "name": "The Lord of the Rings OnlineÃ¢â€Â¢",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -11194,7 +11194,7 @@
   },
   {
     "appid": 213670,
-    "name": "South Parkâ„¢: The Stick of Truthâ„¢",
+    "name": "South ParkÃ¢â€Â¢: The Stick of TruthÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11243,7 +11243,7 @@
   },
   {
     "appid": 214510,
-    "name": "LEGOÂ® The Lord of the Ringsâ„¢",
+    "name": "LEGOÃ‚Â® The Lord of the RingsÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11544,7 +11544,7 @@
   },
   {
     "appid": 215550,
-    "name": "Zombie Playgroundâ„¢",
+    "name": "Zombie PlaygroundÃ¢â€Â¢",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -11698,7 +11698,7 @@
   },
   {
     "appid": 216335,
-    "name": "Sleeping DogsÂ™ - Law Enforcer Pack",
+    "name": "Sleeping DogsÃ‚â„¢ - Law Enforcer Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -11733,7 +11733,7 @@
   },
   {
     "appid": 218700,
-    "name": "Angelica Weaver: Catch Me When You Can - Collectorâ€™s Edition",
+    "name": "Angelica Weaver: Catch Me When You Can - CollectorÃ¢â‚¬â„¢s Edition",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11789,21 +11789,21 @@
   },
   {
     "appid": 219097,
-    "name": "Call of DutyÂ®: Black Ops II Revolution",
+    "name": "Call of DutyÃ‚Â®: Black Ops II Revolution",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 219098,
-    "name": "Call of DutyÂ®: Black Ops II - Uprising",
+    "name": "Call of DutyÃ‚Â®: Black Ops II - Uprising",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 219101,
-    "name": "Call of DutyÂ®: Black Ops II - Vengeance",
+    "name": "Call of DutyÃ‚Â®: Black Ops II - Vengeance",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -11901,7 +11901,7 @@
   },
   {
     "appid": 220240,
-    "name": "Far CryÂ® 3",
+    "name": "Far CryÃ‚Â® 3",
     "DRM": "Ubisoft Connect, PunkBuster",
     "Workshop": true,
     "Type": null
@@ -12055,7 +12055,7 @@
   },
   {
     "appid": 222575,
-    "name": "Train Simulator: LMS Class 3F â€˜Jintyâ€™ Loco Add-On",
+    "name": "Train Simulator: LMS Class 3F Ã¢â‚¬ËœJintyÃ¢â‚¬â„¢ Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -12139,7 +12139,7 @@
   },
   {
     "appid": 222590,
-    "name": "Train Simulator: Great Northern F7 â€˜Empire Builderâ€™ Loco Add-On",
+    "name": "Train Simulator: Great Northern F7 Ã¢â‚¬ËœEmpire BuilderÃ¢â‚¬â„¢ Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -12629,7 +12629,7 @@
   },
   {
     "appid": 226100,
-    "name": "PixelJunkâ„¢ Nom Nom Galaxy",
+    "name": "PixelJunkÃ¢â€Â¢ Nom Nom Galaxy",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -12874,7 +12874,7 @@
   },
   {
     "appid": 228760,
-    "name": "TrackManiaÂ² Canyon",
+    "name": "TrackManiaÃ‚Â² Canyon",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -12909,7 +12909,7 @@
   },
   {
     "appid": 229270,
-    "name": "Painkiller Hell & Damnation - Heavenâ€™s Above",
+    "name": "Painkiller Hell & Damnation - HeavenÃ¢â‚¬â„¢s Above",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13042,7 +13042,7 @@
   },
   {
     "appid": 230330,
-    "name": "FINAL FANTASYÂ® XI: Ultimate Collection Seekers Edition NA",
+    "name": "FINAL FANTASYÃ‚Â® XI: Ultimate Collection Seekers Edition NA",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -13112,7 +13112,7 @@
   },
   {
     "appid": 230885,
-    "name": "Awesomenauts - Demon SkÃ¸lldir skin",
+    "name": "Awesomenauts - Demon SkÃƒÂ¸lldir skin",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13574,7 +13574,7 @@
   },
   {
     "appid": 233270,
-    "name": "Far CryÂ® 3 Blood Dragon",
+    "name": "Far CryÃ‚Â® 3 Blood Dragon",
     "DRM": "Ubisoft Connect",
     "Workshop": true,
     "Type": null
@@ -13798,7 +13798,7 @@
   },
   {
     "appid": 234784,
-    "name": "Call of DutyÂ®: Black Ops II - Asian Flags of the World Calling Card Pack",
+    "name": "Call of DutyÃ‚Â®: Black Ops II - Asian Flags of the World Calling Card Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13812,14 +13812,14 @@
   },
   {
     "appid": 234786,
-    "name": "Call of DutyÂ®: Black Ops II - Paladin Personalization Pack",
+    "name": "Call of DutyÃ‚Â®: Black Ops II - Paladin Personalization Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 234788,
-    "name": "Call of DutyÂ®: Black Ops II - Cyborg Personalization Pack",
+    "name": "Call of DutyÃ‚Â®: Black Ops II - Cyborg Personalization Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -14407,21 +14407,21 @@
   },
   {
     "appid": 240600,
-    "name": "MotoGPâ„¢13",
+    "name": "MotoGPÃ¢â€Â¢13",
     "DRM": null,
     "Workshop": true,
     "Type": null
   },
   {
     "appid": 240611,
-    "name": "MotoGPâ„¢13: Red Bull Rookies Cup",
+    "name": "MotoGPÃ¢â€Â¢13: Red Bull Rookies Cup",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 240612,
-    "name": "MotoGPâ„¢13: MotoGPâ„¢ Champions",
+    "name": "MotoGPÃ¢â€Â¢13: MotoGPÃ¢â€Â¢ Champions",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -14687,7 +14687,7 @@
   },
   {
     "appid": 243780,
-    "name": "PixelJunkâ„¢ Monsters Ultimate",
+    "name": "PixelJunkÃ¢â€Â¢ Monsters Ultimate",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -14820,7 +14820,7 @@
   },
   {
     "appid": 244890,
-    "name": "VelocityÂ®Ultra",
+    "name": "VelocityÃ‚Â®Ultra",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -14869,7 +14869,7 @@
   },
   {
     "appid": 245280,
-    "name": "ENSLAVEDâ„¢: Odyssey to the Westâ„¢ Premium Edition",
+    "name": "ENSLAVEDÃ¢â€Â¢: Odyssey to the WestÃ¢â€Â¢ Premium Edition",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -14967,7 +14967,7 @@
   },
   {
     "appid": 246030,
-    "name": "Farming Simulator 2013 VÃ¤derstad Pack",
+    "name": "Farming Simulator 2013 VÃƒÂ¤derstad Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -15079,7 +15079,7 @@
   },
   {
     "appid": 246680,
-    "name": "Secrets of RÃ¦tikon",
+    "name": "Secrets of RÃƒÂ¦tikon",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -15982,7 +15982,7 @@
   },
   {
     "appid": 283600,
-    "name": "World of Subways 2 â€“ Berlin Line 7",
+    "name": "World of Subways 2 Ã¢â‚¬ Berlin Line 7",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -16129,7 +16129,7 @@
   },
   {
     "appid": 284450,
-    "name": "DARK SOULSâ„¢ II - Season Pass",
+    "name": "DARK SOULSÃ¢â€Â¢ II - Season Pass",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -16227,7 +16227,7 @@
   },
   {
     "appid": 289730,
-    "name": "DLC #1 - Kovacâ€™s Way",
+    "name": "DLC #1 - KovacÃ¢â‚¬â„¢s Way",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -16311,7 +16311,7 @@
   },
   {
     "appid": 290400,
-    "name": "Child of Light DLC 1 -The Golemâ€™s Plight Pack",
+    "name": "Child of Light DLC 1 -The GolemÃ¢â‚¬â„¢s Plight Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -16423,7 +16423,7 @@
   },
   {
     "appid": 290810,
-    "name": "Colossal Kaiju Combatâ„¢: Kaijuland Battles",
+    "name": "Colossal Kaiju CombatÃ¢â€Â¢: Kaijuland Battles",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -16857,21 +16857,21 @@
   },
   {
     "appid": 292710,
-    "name": "LEGOÂ® The Hobbitâ„¢ DLC 1 - The Big Little Character Pack",
+    "name": "LEGOÃ‚Â® The HobbitÃ¢â€Â¢ DLC 1 - The Big Little Character Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 292711,
-    "name": "LEGOÂ® The Hobbitâ„¢ DLC 2 - Side Quest Character Pack",
+    "name": "LEGOÃ‚Â® The HobbitÃ¢â€Â¢ DLC 2 - Side Quest Character Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 292712,
-    "name": "LEGOÂ® The Hobbitâ„¢ DLC 3 - The Battle Pack",
+    "name": "LEGOÃ‚Â® The HobbitÃ¢â€Â¢ DLC 3 - The Battle Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -17466,7 +17466,7 @@
   },
   {
     "appid": 294860,
-    "name": "Valkyria Chroniclesâ„¢",
+    "name": "Valkyria ChroniclesÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -17571,7 +17571,7 @@
   },
   {
     "appid": 295196,
-    "name": "TS Marketplace: Ã–BB 1189 â€˜Krokodilâ€™ Loco Add-On",
+    "name": "TS Marketplace: Ãƒâ€“BB 1189 Ã¢â‚¬ËœKrokodilÃ¢â‚¬â„¢ Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -17760,7 +17760,7 @@
   },
   {
     "appid": 295490,
-    "name": "SchrÃ¶dinger's Cat and the Raiders of the Lost Quark",
+    "name": "SchrÃƒÂ¶dinger's Cat and the Raiders of the Lost Quark",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -17942,7 +17942,7 @@
   },
   {
     "appid": 296770,
-    "name": "Real Boxingâ„¢",
+    "name": "Real BoxingÃ¢â€Â¢",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -18243,14 +18243,14 @@
   },
   {
     "appid": 297960,
-    "name": "MotoGPâ„¢14 Laguna Seca Redbull US Grand Prix DLC",
+    "name": "MotoGPÃ¢â€Â¢14 Laguna Seca Redbull US Grand Prix DLC",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 297970,
-    "name": "MotoGPâ„¢14 Moto2â„¢ and Moto3â„¢ DLC",
+    "name": "MotoGPÃ¢â€Â¢14 Moto2Ã¢â€Â¢ and Moto3Ã¢â€Â¢ DLC",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -18789,7 +18789,7 @@
   },
   {
     "appid": 300860,
-    "name": "Pure Poolâ„¢ - VooFoo DNA",
+    "name": "Pure PoolÃ¢â€Â¢ - VooFoo DNA",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -18835,6 +18835,13 @@
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
+  },
+  {
+    "appid": 648800,
+    "name": "Raft",
+    "DRM": null,
+    "Workshop": true,
+    "Type": null
   },
   {
     "appid": 2456740,

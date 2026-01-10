@@ -1,4 +1,4 @@
--- TS Marketplace: Ã–BB 1189 â€˜Krokodilâ€™ Loco Add-On
+-- TS Marketplace: Ãƒâ€“BB 1189 Ã¢â‚¬ËœKrokodilÃ¢â‚¬â„¢ Loco Add-On
 -- AppID 295196 | Generated on 2026-01-08 23:34 UTC | steamuck.com
 -- Type: DLC
 

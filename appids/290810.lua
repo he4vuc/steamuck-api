@@ -1,4 +1,4 @@
--- Colossal Kaiju Combatâ„¢: Kaijuland Battles
+-- Colossal Kaiju CombatÃ¢â€Â¢: Kaijuland Battles
 -- AppID 290810 | Generated on 2026-01-08 21:39 UTC | steamuck.com
 
 -- Main Application

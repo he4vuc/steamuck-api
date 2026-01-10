@@ -1,4 +1,4 @@
--- STAR WARSâ„¢ Empire at War: Gold Pack
+-- STAR WARSÃ¢â€Â¢ Empire at War: Gold Pack
 -- AppID 32470 | Generated on 2026-01-07 12:27 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

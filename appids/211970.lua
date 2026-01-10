@@ -1,4 +1,4 @@
--- Test DriveÂ®: Ferrari Racing Legends
+-- Test DriveÃ‚Â®: Ferrari Racing Legends
 -- AppID 211970 | Generated on 2026-01-08 01:47 UTC | steamuck.com
 
 -- Main Application

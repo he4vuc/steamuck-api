@@ -1,4 +1,4 @@
--- Command & Conquer 3: Tiberium Warsâ„¢
+-- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢
 -- AppID 24790 | Generated on 2026-01-07 11:32 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
@@ -15,12 +15,12 @@ addappid(24796, 1, "9ad71a2e29ea43727fdce3ff13d86675f87295b815431e4377ca071c25e8
 addappid(24797, 1, "cc9262fb5627abc5048faa47fddddf08333d55a43f7e0bcd7f74aa23c85f1c45") -- Command and Conquer 3: Tiberium Wars Dutch
 addappid(24798, 1, "360db0af4c27f578e87ec06356559ecc480cb0a98adfd0ac594e885308bbadb6") -- Command and Conquer 3: Tiberium Wars Swedish
 addappid(24799, 1, "59c8dbcf62095ce84fc7c7e84f6257a7b21397b23c12efffd0d31a3cb4912148") -- Command and Conquer 3: Tiberium Wars Polish
-addappid(2845530, 1, "eff70eeb1f4ec9be9b3a89d6c639cb029e07a13836e074ae5426c0b6d4752735") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
-addappid(2845531, 1, "911e72b5654e6776b18afb7281dcfcc13f39f4013e1919da507c0119883e7855") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
-addappid(2845532, 1, "ff6ec6b61dfbabf831ef9cce56f7c3c203e449e9a9871786c64132359aef7ee3") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
-addappid(2845533, 1, "adf4c57b3d67b866d5323c3d7088247cdf325cbf8457e3a5432c5bd5b4b5e627") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
-addappid(2845534, 1, "52c0dff6b8ceefa023ab503383440d20b4d1ceec5867437e0ce959abc964777d") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
-addappid(2845535, 1, "1c695a8de35fe7a20c1dd1f0217bcdaeead18b0cec2192bfbf9fc9460b94eaf1") -- Command & Conquer 3: Tiberium Warsâ„¢ - Content
+addappid(2845530, 1, "eff70eeb1f4ec9be9b3a89d6c639cb029e07a13836e074ae5426c0b6d4752735") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
+addappid(2845531, 1, "911e72b5654e6776b18afb7281dcfcc13f39f4013e1919da507c0119883e7855") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
+addappid(2845532, 1, "ff6ec6b61dfbabf831ef9cce56f7c3c203e449e9a9871786c64132359aef7ee3") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
+addappid(2845533, 1, "adf4c57b3d67b866d5323c3d7088247cdf325cbf8457e3a5432c5bd5b4b5e627") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
+addappid(2845534, 1, "52c0dff6b8ceefa023ab503383440d20b4d1ceec5867437e0ce959abc964777d") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
+addappid(2845535, 1, "1c695a8de35fe7a20c1dd1f0217bcdaeead18b0cec2192bfbf9fc9460b94eaf1") -- Command & Conquer 3: Tiberium WarsÃ¢â€Â¢ - Content
 
 -- Shared Depots (2)
 addappid(228981, 1, "9afdbd47677424be993f6b516a15ebdb5281aa318114631d14b2b23999ae97ac") -- VC 2005 Redist (from 228980)

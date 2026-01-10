@@ -1,4 +1,4 @@
--- TrackManiaÂ² Canyon
+-- TrackManiaÃ‚Â² Canyon
 -- AppID 228760 | Generated on 2026-01-08 01:18 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

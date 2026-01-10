@@ -1,4 +1,4 @@
--- PixelJunkâ„¢ Nom Nom Galaxy
+-- PixelJunkÃ¢â€Â¢ Nom Nom Galaxy
 -- AppID 226100 | Generated on 2026-01-08 07:14 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

@@ -1,4 +1,4 @@
--- Call of DutyÂ®: Black Ops II - Cyborg Personalization Pack
+-- Call of DutyÃ‚Â®: Black Ops II - Cyborg Personalization Pack
 -- AppID 234788 | Generated on 2026-01-08 10:31 UTC | steamuck.com
 -- Type: DLC
 

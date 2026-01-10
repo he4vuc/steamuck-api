@@ -2,7 +2,7 @@
 -- AppID 297990 | Generated on 2026-01-09 00:52 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: MotoGPâ„¢14
+-- Base Game: MotoGPÃ¢â€Â¢14
 addappid(256390)
 
 -- Main Application

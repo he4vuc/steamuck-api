@@ -1,8 +1,8 @@
--- MotoGPâ„¢14 Laguna Seca Redbull US Grand Prix DLC
+-- MotoGPÃ¢â€Â¢14 Laguna Seca Redbull US Grand Prix DLC
 -- AppID 297960 | Generated on 2026-01-09 00:50 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: MotoGPâ„¢14
+-- Base Game: MotoGPÃ¢â€Â¢14
 addappid(256390)
 
 -- Main Application

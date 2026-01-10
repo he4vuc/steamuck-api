@@ -1,4 +1,4 @@
--- STAR WARSâ„¢ Republic Commando
+-- STAR WARS Republic Commando
 -- AppID 6000 | Generated on 2026-01-07 05:22 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

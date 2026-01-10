@@ -1,4 +1,4 @@
--- Secrets of RÃ¦tikon
+-- Secrets of RÃƒÂ¦tikon
 -- AppID 246680 | Generated on 2026-01-08 13:17 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

@@ -1,4 +1,4 @@
--- Thiefâ„¢ II: The Metal Age
+-- ThiefÃ¢â€Â¢ II: The Metal Age
 -- AppID 211740 | Generated on 2026-01-08 01:43 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

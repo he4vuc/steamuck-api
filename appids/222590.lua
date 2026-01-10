@@ -1,4 +1,4 @@
--- Train Simulator: Great Northern F7 â€˜Empire Builderâ€™ Loco Add-On
+-- Train Simulator: Great Northern F7 Ã¢â‚¬ËœEmpire BuilderÃ¢â‚¬â„¢ Loco Add-On
 -- AppID 222590 | Generated on 2026-01-08 05:51 UTC | steamuck.com
 -- Type: DLC
 

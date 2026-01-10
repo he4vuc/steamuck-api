@@ -1,4 +1,4 @@
--- ENSLAVEDâ„¢: Odyssey to the Westâ„¢ Premium Edition
+-- ENSLAVEDÃ¢â€Â¢: Odyssey to the WestÃ¢â€Â¢ Premium Edition
 -- AppID 245280 | Generated on 2026-01-08 12:55 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

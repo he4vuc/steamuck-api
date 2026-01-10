@@ -1,4 +1,4 @@
--- MotoGPâ„¢13
+-- MotoGPÃ¢â€Â¢13
 -- AppID 240600 | Generated on 2026-01-08 11:55 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

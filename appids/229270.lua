@@ -1,4 +1,4 @@
--- Painkiller Hell & Damnation - Heavenâ€™s Above
+-- Painkiller Hell & Damnation - HeavenÃ¢â‚¬â„¢s Above
 -- AppID 229270 | Generated on 2026-01-08 08:00 UTC | steamuck.com
 -- Type: DLC
 

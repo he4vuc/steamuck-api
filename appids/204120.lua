@@ -1,4 +1,4 @@
--- LEGOÂ® Harry Potter: Years 5-7
+-- LEGOÃ‚Â® Harry Potter: Years 5-7
 -- AppID 204120 | Generated on 2026-01-07 22:05 UTC | steamuck.com
 -- Warning: This game uses DRM (Xbox Live)
 -- Note: This game supports Steam Workshop content

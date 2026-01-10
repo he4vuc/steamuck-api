@@ -1,8 +1,8 @@
--- MotoGPâ„¢13: MotoGPâ„¢ Champions
+-- MotoGPÃ¢â€Â¢13: MotoGPÃ¢â€Â¢ Champions
 -- AppID 240612 | Generated on 2026-01-08 11:57 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: MotoGPâ„¢13
+-- Base Game: MotoGPÃ¢â€Â¢13
 addappid(240600)
 
 -- Main Application

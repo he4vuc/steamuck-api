@@ -1,4 +1,4 @@
--- ENDLESSâ„¢ Space - Definitive Edition
+-- ENDLESSÃ¢â€Â¢ Space - Definitive Edition
 -- AppID 208140 | Generated on 2026-01-07 23:32 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

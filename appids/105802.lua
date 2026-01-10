@@ -1,8 +1,8 @@
--- PixelJunkâ„¢ Eden - Original Soundtrack
+-- PixelJunkÃ¢â€Â¢ Eden - Original Soundtrack
 -- AppID 105802 | Generated on 2026-01-07 20:15 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: PixelJunkâ„¢ Eden
+-- Base Game: PixelJunkÃ¢â€Â¢ Eden
 addappid(105800)
 
 -- Main Application

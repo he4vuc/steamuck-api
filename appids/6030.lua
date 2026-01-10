@@ -1,4 +1,4 @@
--- STAR WARSâ„¢ Jedi Knight II: Jedi Outcastâ„¢
+-- STAR WARS Jedi Knight II: Jedi Outcast
 -- AppID 6030 | Generated on 2026-01-07 07:57 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

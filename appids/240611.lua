@@ -1,8 +1,8 @@
--- MotoGPâ„¢13: Red Bull Rookies Cup
+-- MotoGPÃ¢â€Â¢13: Red Bull Rookies Cup
 -- AppID 240611 | Generated on 2026-01-08 11:56 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: MotoGPâ„¢13
+-- Base Game: MotoGPÃ¢â€Â¢13
 addappid(240600)
 
 -- Main Application

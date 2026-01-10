@@ -1,4 +1,4 @@
--- Kingdoms of Amalur: Reckoningâ„¢
+-- Kingdoms of Amalur: ReckoningÃ¢â€Â¢
 -- AppID 102500 | Generated on 2026-01-07 20:02 UTC | steamuck.com
 
 -- Main Application

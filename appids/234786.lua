@@ -1,4 +1,4 @@
--- Call of DutyÂ®: Black Ops II - Paladin Personalization Pack
+-- Call of DutyÃ‚Â®: Black Ops II - Paladin Personalization Pack
 -- AppID 234786 | Generated on 2026-01-08 10:30 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- STAR WARSâ„¢: The Force Unleashedâ„¢ II
+-- STAR WARSÃ¢â€Â¢: The Force UnleashedÃ¢â€Â¢ II
 -- AppID 32500 | Generated on 2026-01-07 12:28 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

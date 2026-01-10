@@ -1,4 +1,4 @@
--- STAR WARSâ„¢ Knights of the Old Republicâ„¢
+-- STAR WARSÃ¢â€Â¢ Knights of the Old RepublicÃ¢â€Â¢
 -- AppID 32370 | Generated on 2026-01-07 12:22 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

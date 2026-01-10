@@ -1,4 +1,4 @@
--- Pure Poolâ„¢ - VooFoo DNA
+-- Pure PoolÃ¢â€Â¢ - VooFoo DNA
 -- AppID 300860 | Generated on 2026-01-09 11:12 UTC | steamuck.com
 -- Type: DLC
 
