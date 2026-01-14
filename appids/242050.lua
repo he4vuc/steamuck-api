@@ -7,7 +7,7 @@
 addappid(242050, 1, "cafa8e00c75d44d7e693fab3646f3e5803ada60a2dd26534ead5874dccdc4869")
 
 -- Content Depots (1)
-addappid(242051, 1, "6b4004c38a5c8c1a869d90c381726c7d5651f578753c316c2dcd372fa13ef609") -- AssassinÃ¢â‚¬â„¢s Creed IV Black Flag Content
+addappid(242051, 1, "6b4004c38a5c8c1a869d90c381726c7d5651f578753c316c2dcd372fa13ef609") -- Assassins Creed IV Black Flag Content
 
 -- Shared Depots (5)
 addappid(228982, 1, "fa2997f03c3576c41174f200596ab2246fd1e39c0911f9b869e92635ae5b0ff5") -- VC 2008 Redist (from 228980)

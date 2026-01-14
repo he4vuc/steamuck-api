@@ -1,9 +1,9 @@
--- The SimsÃ¢â€Â¢ 3 Pets
+-- The Sims 3 Pets
 -- AppID 47930 | Generated on 2026-01-07 16:03 UTC | steamuck.com
 -- Type: DLC
 -- Warning: This game uses DRM (EA App, SecuROM)
 
--- Base Game: The SimsÃ¢â€Â¢ 3
+-- Base Game: The Sims 3
 addappid(47890)
 
 -- Main Application

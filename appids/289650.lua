@@ -7,7 +7,7 @@
 addappid(289650, 1, "3341a55a14b60cb7d34c8d27af4f578e262cc7bef557a18b38bce40a29c6989b")
 
 -- Content Depots (3)
-addappid(289651, 1, "8f869005c44f493f984aa111e49e96c4f64e69a4b4078cbfff77f01ce5bb7b8e") -- AssassinÃ¢â‚¬â„¢s Creed Unity Content
+addappid(289651, 1, "8f869005c44f493f984aa111e49e96c4f64e69a4b4078cbfff77f01ce5bb7b8e") -- Assassins Creed Unity Content
 addappid(289652, 1, "dd7b22e30a71132cc09a5e75b0d8b326d5a0716911cb3b63f6f656fafe0ddad1") -- WW
 addappid(289653, 1, "8aa4b40cbc6dc05229d0cdd4f7fc19f1e5b0cebe991d6db3fec2f3ffb906d700") -- RUS
 

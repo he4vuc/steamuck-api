@@ -1,4 +1,4 @@
--- World of Subways 2 Ã¢â‚¬ Berlin Line 7
+-- World of Subways 2  Berlin Line 7
 -- AppID 283600 | Generated on 2026-01-08 20:10 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

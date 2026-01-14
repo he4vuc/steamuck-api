@@ -1,8 +1,8 @@
--- MotoGPÃ¢â€Â¢14 Moto2Ã¢â€Â¢ and Moto3Ã¢â€Â¢ DLC
+-- MotoGP14 Moto2 and Moto3 DLC
 -- AppID 297970 | Generated on 2026-01-09 00:50 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: MotoGPÃ¢â€Â¢14
+-- Base Game: MotoGP14
 addappid(256390)
 
 -- Main Application

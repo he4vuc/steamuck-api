@@ -3,7 +3,7 @@
 -- Type: DLC
 -- Warning: This game uses DRM (EA App)
 
--- Base Game: The SimsÃ¢â€Â¢ 3
+-- Base Game: The Sims 3
 addappid(47890)
 
 -- Main Application

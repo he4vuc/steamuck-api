@@ -1,4 +1,4 @@
--- STAR WARSÃ¢â€Â¢ Jedi Knight: Dark Forces II
+-- STAR WARS Jedi Knight: Dark Forces II
 -- AppID 32380 | Generated on 2026-01-07 12:23 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

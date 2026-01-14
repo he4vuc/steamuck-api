@@ -1,4 +1,4 @@
--- STAR WARSÃ¢â€Â¢: The Force UnleashedÃ¢â€Â¢ Ultimate Sith Edition
+-- STAR WARS: The Force Unleashed Ultimate Sith Edition
 -- AppID 32430 | Generated on 2026-01-07 12:25 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

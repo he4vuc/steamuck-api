@@ -1,4 +1,4 @@
--- Farming Simulator 2013 VÃƒÂ¤derstad Pack
+-- Farming Simulator 2013 V ¤derstad Pack
 -- AppID 246030 | Generated on 2026-01-08 13:06 UTC | steamuck.com
 -- Type: DLC
 

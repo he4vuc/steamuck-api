@@ -1,4 +1,4 @@
--- The Lord of the Rings OnlineÃ¢â€Â¢
+-- The Lord of the Rings Online
 -- AppID 212500 | Generated on 2026-01-08 02:01 UTC | steamuck.com
 
 -- Main Application

@@ -2,7 +2,7 @@
 -- AppID 215247 | Generated on 2026-01-08 03:06 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: Sleeping DogsÃ¢â€Â¢
+-- Base Game: Sleeping Dogs
 addappid(202170)
 
 -- Main Application

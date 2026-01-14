@@ -1,4 +1,4 @@
--- Civilization V - ExplorerÃ¢â‚¬â„¢s Map Pack
+-- Civilization V - Explorers Map Pack
 -- AppID 16866 | Generated on 2026-01-07 10:04 UTC | steamuck.com
 -- Type: DLC
 

@@ -1,4 +1,4 @@
--- LEGOÃ‚Â® Star WarsÃ¢â€Â¢ III: The Clone WarsÃ¢â€Â¢
+-- LEGO® Star Wars III: The Clone Wars
 -- AppID 32510 | Generated on 2026-01-07 12:28 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

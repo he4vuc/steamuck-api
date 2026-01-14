@@ -1,4 +1,4 @@
--- Empire: Total WarÃ¢â€Â¢ - Elite Units of the East
+-- Empire: Total War - Elite Units of the East
 -- AppID 10608 | Generated on 2026-01-07 08:58 UTC | steamuck.com
 -- Type: DLC
 

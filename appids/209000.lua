@@ -1,4 +1,4 @@
--- BatmanÃ¢â€Â¢: Arkham Origins
+-- Batman: Arkham Origins
 -- AppID 209000 | Generated on 2026-01-08 00:19 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
@@ -7,11 +7,11 @@ addappid(209000, 1, "6eefbd0cc24a1848f6f7ae898beb20d326f901b551e08fa521ed972afb8
 
 -- Content Depots (6)
 addappid(209001, 1, "f5c100e9d6d4f1a524c3704ff3ef0e14933ca21f52c57fb607302527856d99ea") -- Ozzy Content
-addappid(209002, 1, "bfa7a84d592cab2693fe595a5f60612759a409377e68b01dff493425fc710c8f") -- BatmanÃ¢â€Â¢: Arkham Origins Spanish
-addappid(209003, 1, "a77395939294ede504549b276cf392f33229c12cf25a92640d658904b740594d") -- BatmanÃ¢â€Â¢: Arkham Origins French
-addappid(209004, 1, "a02b22c7093dbc7c27960996cbe5b8d7e84d3249e0fb37614c803468ad87b989") -- BatmanÃ¢â€Â¢: Arkham Origins German
-addappid(209005, 1, "e0bf4517c3964dac1250280f7d11e70cf2789347ae475200ed8f3e8766bfa4b9") -- BatmanÃ¢â€Â¢: Arkham Origins Italian
-addappid(209006, 1, "ac849826385f5ab7fbcebe89dfe2765bb2e42f877d59293814f3320e76a6199d") -- BatmanÃ¢â€Â¢: Arkham Origins Portuguese-Brazil
+addappid(209002, 1, "bfa7a84d592cab2693fe595a5f60612759a409377e68b01dff493425fc710c8f") -- Batman: Arkham Origins Spanish
+addappid(209003, 1, "a77395939294ede504549b276cf392f33229c12cf25a92640d658904b740594d") -- Batman: Arkham Origins French
+addappid(209004, 1, "a02b22c7093dbc7c27960996cbe5b8d7e84d3249e0fb37614c803468ad87b989") -- Batman: Arkham Origins German
+addappid(209005, 1, "e0bf4517c3964dac1250280f7d11e70cf2789347ae475200ed8f3e8766bfa4b9") -- Batman: Arkham Origins Italian
+addappid(209006, 1, "ac849826385f5ab7fbcebe89dfe2765bb2e42f877d59293814f3320e76a6199d") -- Batman: Arkham Origins Portuguese-Brazil
 
 -- Shared Depots (3)
 addappid(228983, 1, "77c8e812cd79e67e2d376721253ebb07e06b3646f05671c6c9517b27be14734b") -- VC 2010 Redist (from 228980)

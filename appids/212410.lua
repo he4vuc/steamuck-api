@@ -1,4 +1,4 @@
--- InversionÃ¢â€Â¢
+-- Inversion
 -- AppID 212410 | Generated on 2026-01-08 01:59 UTC | steamuck.com
 -- Warning: This game uses DRM (VAC)
 -- Note: This game supports Steam Workshop content

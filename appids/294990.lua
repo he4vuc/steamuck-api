@@ -2,7 +2,7 @@
 -- AppID 294990 | Generated on 2026-01-08 23:24 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: RocksmithÃ‚Â® 2014 Edition - Remastered
+-- Base Game: Rocksmith® 2014 Edition - Remastered
 addappid(221680)
 
 -- Main Application

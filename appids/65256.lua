@@ -1,4 +1,4 @@
--- Train Simulator: BR Class 423 Ã¢â‚¬Ëœ4VEPÃ¢â‚¬â„¢ EMU Add-On
+-- Train Simulator: BR Class 423 4VEP EMU Add-On
 -- AppID 65256 | Generated on 2026-01-07 17:53 UTC | steamuck.com
 -- Type: DLC
 

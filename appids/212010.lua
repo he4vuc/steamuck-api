@@ -1,4 +1,4 @@
--- Galaxy on Fire 2Ã¢â€Â¢ Full HD
+-- Galaxy on Fire 2 Full HD
 -- AppID 212010 | Generated on 2026-01-08 01:50 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

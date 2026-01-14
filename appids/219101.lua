@@ -1,4 +1,4 @@
--- Call of DutyÃ‚Â®: Black Ops II - Vengeance
+-- Call of Duty®: Black Ops II - Vengeance
 -- AppID 219101 | Generated on 2026-01-08 04:23 UTC | steamuck.com
 -- Type: DLC
 

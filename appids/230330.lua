@@ -1,4 +1,4 @@
--- FINAL FANTASYÃ‚Â® XI: Ultimate Collection Seekers Edition NA
+-- FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA
 -- AppID 230330 | Generated on 2026-01-08 08:26 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

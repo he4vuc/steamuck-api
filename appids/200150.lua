@@ -1,4 +1,4 @@
--- Battle Chess: Game of KingsÃ¢â€Â¢
+-- Battle Chess: Game of Kings
 -- AppID 200150 | Generated on 2026-01-07 20:48 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

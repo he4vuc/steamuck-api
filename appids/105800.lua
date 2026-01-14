@@ -1,4 +1,4 @@
--- PixelJunkÃ¢â€Â¢ Eden
+-- PixelJunk Eden
 -- AppID 105800 | Generated on 2026-01-07 20:14 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

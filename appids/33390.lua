@@ -1,4 +1,4 @@
--- ZeitÃ‚Â²
+-- Zeit
 -- AppID 33390 | Generated on 2026-01-07 12:43 UTC | steamuck.com
 -- Warning: This game uses DRM (Tages/SolidShield)
 

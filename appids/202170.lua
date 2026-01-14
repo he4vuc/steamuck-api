@@ -1,4 +1,4 @@
--- Sleeping DogsÃ¢â€Â¢
+-- Sleeping Dogs
 -- AppID 202170 | Generated on 2026-01-07 21:23 UTC | steamuck.com
 
 -- Main Application
@@ -21,7 +21,7 @@ addappid(202184, 1, "10fce133a1ce719a9b0213620fb19b7c8af139326da77ce5e137730cf07
 addappid(202185, 1, "eee0e5cc68cbfbcb768e4b60700c91b667c0bbb40c4b2afa081ee523fe80ed07") -- SleepingDogsGermanExecutable
 addappid(216959, 1, "6D42295825D5E9CE245216A56BC9BD4389F43695794EA6A998D0FFB1D45A1873") -- SleepingDogsHiRes_JPN
 addappid(216960, 1, "9850d9a1f2e6e380cb643bf4c7da9d3f7d48f8f42416690764861f74b46c5f42") -- SleepingDogsHiRes_DE
-addappid(216961, 1, "F897B9B70A63B29D520599F7874DDD0352D3639077265B2AF8352293AF53BB2D") -- Mac Sleeping DogsÃ¢â€Â¢ DLC18 Street Racer
+addappid(216961, 1, "F897B9B70A63B29D520599F7874DDD0352D3639077265B2AF8352293AF53BB2D") -- Mac Sleeping Dogs DLC18 Street Racer
 
 -- DLCs with Content (31)
 addappid(216330, 1, "09d5bfdb5e9d87e31543a99bee2bd1fcc8ab4a3080c42b7c2fd81f755ef07fdc") -- Sleeping Dogs - Ghost Pig Pack

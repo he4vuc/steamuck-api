@@ -13,7 +13,7 @@ addappid(223754, 1, "ec129f70e297adc8f49daba12ea66096e195a1ffd6c3fd24a6d622f93ce
 addappid(223755, 1, "39760a82d32ab842f0a2fd45fc4a8b0b1cc8c410398f60a80e64a8b80b64baef") -- Czech
 addappid(223756, 1, "f196dd7c5a21bea49485396fda97e33a72dfe29d904d3ecf01e5433d175e86d6") -- Russian
 addappid(223757, 1, "ae434c9af9db141ecdaad889be218d978ea3436cd3b265fe094fe0b586d637c7") -- French
-addappid(223758, 1, "148e708acdcb489c311bb3cb4ff7a9217766bd1b79c4b6ebf8d6687f7dbacd48") -- ÄÂ¡hinese
+addappid(223758, 1, "148e708acdcb489c311bb3cb4ff7a9217766bd1b79c4b6ebf8d6687f7dbacd48") -- hinese
 
 -- Shared Depots (2)
 addappid(228989, 1, "ad69276eb476cf06c40312df7376d63deac0c838b9a2767005be8bb306ffb853") -- VC 2022 Redist (from 228980)

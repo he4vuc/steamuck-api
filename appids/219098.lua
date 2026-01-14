@@ -1,4 +1,4 @@
--- Call of DutyÃ‚Â®: Black Ops II - Uprising
+-- Call of Duty®: Black Ops II - Uprising
 -- AppID 219098 | Generated on 2026-01-08 04:22 UTC | steamuck.com
 -- Type: DLC
 

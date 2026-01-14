@@ -1,4 +1,4 @@
--- Far CryÃ‚Â® 3
+-- Far Cry® 3
 -- AppID 220240 | Generated on 2026-01-08 04:44 UTC | steamuck.com
 -- Warning: This game uses DRM (Ubisoft Connect, PunkBuster)
 -- Note: This game supports Steam Workshop content
@@ -22,7 +22,7 @@ addappid(220252, 1, "a08dabf711d0dd85d278a65c29208867cc28b4324fa0f32a0d84d176385
 addappid(220253, 1, "1a84e70789a71107cbc04f1b270421c85aa26fe217c2d7e97202d1ccd1383d1f") -- Far Cry 3 Schinese
 addappid(220254, 1, "6769dd40329d22e1b37ef3cdc2893b5846ec445153160fb87b138f45bcb8b599") -- Far Cry 3 TChinese
 addappid(220255, 1, "ee326194cf98b5abd347e5e16d2d4a7dea0285a9e859d6f580587b50a85fb99a") -- Far Cry 3 Korean
-addappid(220256, 1, "2fc1d80bddb5da522cb2cac92f358ece42610f185ed04367ff2eb1f8f24b5ded") -- Far CryÃ‚Â® 3 Japanese
+addappid(220256, 1, "2fc1d80bddb5da522cb2cac92f358ece42610f185ed04367ff2eb1f8f24b5ded") -- Far Cry® 3 Japanese
 addappid(226455, 1, "1f05a0a4ab5bf7a681e5903b3516eb50fa31f7ee676f3913bfd4ad7110fb82dd") -- Far Cry 3 Czech
 addappid(226456, 1, "d974d3b6f97b04e42ee91c19e64d3b35f1528495e864d9b8bfc34d406a6f6db7") -- Far Cry 3 Russian
 

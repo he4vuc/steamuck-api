@@ -2,7 +2,7 @@
 -- AppID 200860 | Generated on 2026-01-07 20:59 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: Batman: Arkham CityÃ¢â€Â¢
+-- Base Game: Batman: Arkham City
 addappid(57400)
 
 -- Main Application

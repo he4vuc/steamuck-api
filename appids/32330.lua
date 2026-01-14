@@ -1,4 +1,4 @@
--- LEGOÃ¢â€¡ Indiana JonesÃ¢â€Â¢: The Original Adventures
+-- LEGO Indiana Jones: The Original Adventures
 -- AppID 32330 | Generated on 2026-01-07 12:20 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
