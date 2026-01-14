@@ -1,4 +1,4 @@
--- LEGO® Harry Potter: Years 1-4
+-- LEGO Harry Potter: Years 1-4
 -- AppID 21130 | Generated on 2026-01-07 10:42 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

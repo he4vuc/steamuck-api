@@ -1,8 +1,8 @@
--- LEGO® The Hobbit DLC 3 - The Battle Pack
+-- LEGO The Hobbit DLC 3 - The Battle Pack
 -- AppID 292712 | Generated on 2026-01-08 22:25 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: LEGO® The Hobbit
+-- Base Game: LEGO The Hobbit
 addappid(285160)
 
 -- Main Application

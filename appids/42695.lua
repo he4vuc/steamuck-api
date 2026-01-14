@@ -1,8 +1,8 @@
--- Call of Duty®: Modern Warfare® 3 (2011) - Collection 1
+-- Call of Duty: Modern Warfare 3 (2011) - Collection 1
 -- AppID 42695 | Generated on 2026-01-07 14:49 UTC | steamuck.com
 -- Type: DLC
 
--- Base Game: Call of Duty®: Modern Warfare® 3 (2011) - Multiplayer
+-- Base Game: Call of Duty: Modern Warfare 3 (2011) - Multiplayer
 addappid(42690)
 
 -- Main Application

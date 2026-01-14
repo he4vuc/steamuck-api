@@ -1,4 +1,4 @@
--- Zen Bound® 2
+-- Zen Bound 2
 -- AppID 61600 | Generated on 2026-01-07 17:12 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

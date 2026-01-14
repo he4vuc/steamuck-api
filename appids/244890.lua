@@ -1,4 +1,4 @@
--- Velocity®Ultra
+-- VelocityUltra
 -- AppID 244890 | Generated on 2026-01-08 12:50 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 

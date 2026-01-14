@@ -1,4 +1,4 @@
--- Train Simulator: LMS Class 3F  Loco Add-On
+-- Train Simulator: LMS Class 3F Loco Add-On
 -- AppID 222575 | Generated on 2026-01-08 05:39 UTC | steamuck.com
 -- Type: DLC
 
