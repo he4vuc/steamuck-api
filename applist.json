@@ -2857,7 +2857,7 @@
   },
   {
     "appid": 21000,
-    "name": "LEGO® Batman: The Videogame",
+    "name": "LEGO Batman: The Videogame",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -2892,7 +2892,7 @@
   },
   {
     "appid": 21130,
-    "name": "LEGO® Harry Potter: Years 1-4",
+    "name": "LEGO Harry Potter: Years 1-4",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -4033,7 +4033,7 @@
   },
   {
     "appid": 32440,
-    "name": "LEGO® Star Wars: The Complete Saga",
+    "name": "LEGO Star Wars: The Complete Saga",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -4061,7 +4061,7 @@
   },
   {
     "appid": 32510,
-    "name": "LEGO® Star Wars III: The Clone Wars",
+    "name": "LEGO Star Wars III: The Clone Wars",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -5377,21 +5377,21 @@
   },
   {
     "appid": 42695,
-    "name": "Call of Duty®: Modern Warfare® 3 (2011) - Collection 1",
+    "name": "Call of Duty: Modern Warfare 3 (2011) - Collection 1",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 42696,
-    "name": "Call of Duty®: Modern Warfare® 3 (2011) - DLC2",
+    "name": "Call of Duty: Modern Warfare 3 (2011) - DLC2",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 42697,
-    "name": "Call of Duty®: Modern Warfare® 3 (2011) - DLC3",
+    "name": "Call of Duty: Modern Warfare 3 (2011) - DLC3",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -6588,7 +6588,7 @@
   },
   {
     "appid": 61600,
-    "name": "Zen Bound® 2",
+    "name": "Zen Bound 2",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -9206,7 +9206,7 @@
   },
   {
     "appid": 204120,
-    "name": "LEGO® Harry Potter: Years 5-7",
+    "name": "LEGO Harry Potter: Years 5-7",
     "DRM": "Xbox Live",
     "Workshop": true,
     "Type": null
@@ -11019,7 +11019,7 @@
   },
   {
     "appid": 211970,
-    "name": "Test Drive®: Ferrari Racing Legends",
+    "name": "Test Drive: Ferrari Racing Legends",
     "DRM": null,
     "Workshop": false,
     "Type": null
@@ -11243,7 +11243,7 @@
   },
   {
     "appid": 214510,
-    "name": "LEGO® The Lord of the Rings",
+    "name": "LEGO The Lord of the Rings",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -11789,21 +11789,21 @@
   },
   {
     "appid": 219097,
-    "name": "Call of Duty®: Black Ops II Revolution",
+    "name": "Call of Duty: Black Ops II Revolution",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 219098,
-    "name": "Call of Duty®: Black Ops II - Uprising",
+    "name": "Call of Duty: Black Ops II - Uprising",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 219101,
-    "name": "Call of Duty®: Black Ops II - Vengeance",
+    "name": "Call of Duty: Black Ops II - Vengeance",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -11901,7 +11901,7 @@
   },
   {
     "appid": 220240,
-    "name": "Far Cry® 3",
+    "name": "Far Cry 3",
     "DRM": "Ubisoft Connect, PunkBuster",
     "Workshop": true,
     "Type": null
@@ -12055,7 +12055,7 @@
   },
   {
     "appid": 222575,
-    "name": "Train Simulator: LMS Class 3F  Loco Add-On",
+    "name": "Train Simulator: LMS Class 3F Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13042,7 +13042,7 @@
   },
   {
     "appid": 230330,
-    "name": "FINAL FANTASY® XI: Ultimate Collection Seekers Edition NA",
+    "name": "FINAL FANTASY XI: Ultimate Collection Seekers Edition NA",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -13112,7 +13112,7 @@
   },
   {
     "appid": 230885,
-    "name": "Awesomenauts - Demon Sk ¸lldir skin",
+    "name": "Awesomenauts - Demon Sklldir skin",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13574,7 +13574,7 @@
   },
   {
     "appid": 233270,
-    "name": "Far Cry® 3 Blood Dragon",
+    "name": "Far Cry 3 Blood Dragon",
     "DRM": "Ubisoft Connect",
     "Workshop": true,
     "Type": null
@@ -13798,7 +13798,7 @@
   },
   {
     "appid": 234784,
-    "name": "Call of Duty®: Black Ops II - Asian Flags of the World Calling Card Pack",
+    "name": "Call of Duty: Black Ops II - Asian Flags of the World Calling Card Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -13812,14 +13812,14 @@
   },
   {
     "appid": 234786,
-    "name": "Call of Duty®: Black Ops II - Paladin Personalization Pack",
+    "name": "Call of Duty: Black Ops II - Paladin Personalization Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 234788,
-    "name": "Call of Duty®: Black Ops II - Cyborg Personalization Pack",
+    "name": "Call of Duty: Black Ops II - Cyborg Personalization Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -14820,7 +14820,7 @@
   },
   {
     "appid": 244890,
-    "name": "Velocity®Ultra",
+    "name": "VelocityUltra",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -14967,7 +14967,7 @@
   },
   {
     "appid": 246030,
-    "name": "Farming Simulator 2013 V ¤derstad Pack",
+    "name": "Farming Simulator 2013 Vderstad Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -15079,7 +15079,7 @@
   },
   {
     "appid": 246680,
-    "name": "Secrets of R tikon",
+    "name": "Secrets of tikon",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -15982,7 +15982,7 @@
   },
   {
     "appid": 283600,
-    "name": "World of Subways 2  Berlin Line 7",
+    "name": "World of Subways 2 Berlin Line 7",
     "DRM": null,
     "Workshop": true,
     "Type": null
@@ -16857,21 +16857,21 @@
   },
   {
     "appid": 292710,
-    "name": "LEGO® The Hobbit DLC 1 - The Big Little Character Pack",
+    "name": "LEGO The Hobbit DLC 1 - The Big Little Character Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 292711,
-    "name": "LEGO® The Hobbit DLC 2 - Side Quest Character Pack",
+    "name": "LEGO The Hobbit DLC 2 - Side Quest Character Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
   },
   {
     "appid": 292712,
-    "name": "LEGO® The Hobbit DLC 3 - The Battle Pack",
+    "name": "LEGO The Hobbit DLC 3 - The Battle Pack",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -17571,7 +17571,7 @@
   },
   {
     "appid": 295196,
-    "name": "TS Marketplace:  BB 1189 Krokodil Loco Add-On",
+    "name": "TS Marketplace: BB 1189 Krokodil Loco Add-On",
     "DRM": null,
     "Workshop": false,
     "Type": "DLC"
@@ -18841,6 +18841,13 @@
     "name": "Raft",
     "DRM": null,
     "Workshop": true,
+    "Type": null
+  },
+  {
+    "appid": 2000950,
+    "name": "Call of Duty®:Modern Warfare®",
+    "DRM": null,
+    "Workshop": false,
     "Type": null
   },
   {
