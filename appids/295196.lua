@@ -1,4 +1,4 @@
--- TS Marketplace: Â BB 1189 Krokodil Loco Add-On
+-- TS Marketplace:  BB 1189 Krokodil Loco Add-On
 -- AppID 295196 | Generated on 2026-01-08 23:34 UTC | steamuck.com
 -- Type: DLC
 

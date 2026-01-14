@@ -1,4 +1,4 @@
--- Awesomenauts - Demon SkÂ Â¸lldir skin
+-- Awesomenauts - Demon Sklldir skin
 -- AppID 230885 | Generated on 2026-01-08 08:39 UTC | steamuck.com
 -- Type: DLC
 
