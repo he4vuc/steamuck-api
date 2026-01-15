@@ -1,28 +1,28 @@
--- Call of Duty®:Modern Warfare®
+-- Call of Duty:Modern Warfare
 -- AppID 2000950 | Generated on 2026-01-14 18:35 UTC | openlua.cloud
 
 -- Main Application
 addappid(2000950)
 
 -- Content Depots (18)
-addappid(2000951, 1, "89f7ea826aca3f28f0ece5ac9223a27bd632c3dbc4c32ca991ae009eb243bce6") -- Call of Duty®: Modern Warfare® - Content
-addappid(2000952, 1, "57ff9f6b88c52d489ad760dcdcd46e39eab6df8859089225d0953c3f40dad60a") -- Call of Duty®: Modern Warfare® - Content
-addappid(2000957, 1, "94f6cdb4a8744b280aad9748fa8fd4b7dfb5ea51e74f041a5b20a06ef4453ee8") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117486, 1, "2c5dd0200dfc656bb8686646cb95bfd9fcda8f86a425fbec9c0cbf785e4446b4") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117811, 1, "f0f4f27aba7b9c6627ee98ed3116b3bb38c2c9807506b0c9d8b2b28f0586bb0e") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117816, 1, "2d303675f6840f807487df98e8088d3a04245f47bda7f34ea0c9bb653692f412") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117821, 1, "267e8b1ff50dbb5872f6a9da7ac339b60f2da935f84d7f791410ce316236f15a") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117826, 1, "c481044532c59f9b2e0af0a6711b90e49f5ce7a8bf2c989fe5946606b44dbe07") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117831, 1, "93198d1d90d595e514bcb9e242439c46ba943f77346489d6bdfc0114f86238ca") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117836, 1, "7a4d7f0b29f5ae718a6046a8ca96b5e7deebe6b3a6527778ccbff9d2f65c998e") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117841, 1, "117ee01c9b1fa6c8781a1cb0bb8a76c4a28dc7e2a8709ac20aad7920f73db3da") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117846, 1, "4b11035eeee6eef4bafe2a3ad6ceb3691cfc30c0c02dc06cecd9ee85e7b6f1a5") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117851, 1, "81d9112968df1dfd132366531852836e08832b09f92970ea4c5ef1bf51c437fb") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117856, 1, "2070c9e68c871aa68a80cfb90af341340f4aac051bfc638c46ef387694fd6c18") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117861, 1, "184f7159bded625641def2afebefdaf67ddabb66ef4171e2da259c603ff931c6") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117862, 1, "79b285054c897e6204fa34bbb97a2e55b76e2c8e30b94bcb5d3646b1389fe170") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117863, 1, "34b7468e556b723f4dc0d8416bfe6dcaf8f6974fbc59bd2519f804250db7da88") -- Call of Duty®: Modern Warfare® - Content
-addappid(2117866, 1, "e9ef0c6b43a6035e487925421609ca5234e23e8cc7c70a81654f2cd08caa7095") -- Call of Duty®: Modern Warfare® - Content
+addappid(2000951, 1, "89f7ea826aca3f28f0ece5ac9223a27bd632c3dbc4c32ca991ae009eb243bce6") -- Call of Duty: Modern Warfare - Content
+addappid(2000952, 1, "57ff9f6b88c52d489ad760dcdcd46e39eab6df8859089225d0953c3f40dad60a") -- Call of Duty: Modern Warfare - Content
+addappid(2000957, 1, "94f6cdb4a8744b280aad9748fa8fd4b7dfb5ea51e74f041a5b20a06ef4453ee8") -- Call of Duty: Modern Warfare - Content
+addappid(2117486, 1, "2c5dd0200dfc656bb8686646cb95bfd9fcda8f86a425fbec9c0cbf785e4446b4") -- Call of Duty: Modern Warfare - Content
+addappid(2117811, 1, "f0f4f27aba7b9c6627ee98ed3116b3bb38c2c9807506b0c9d8b2b28f0586bb0e") -- Call of Duty: Modern Warfare - Content
+addappid(2117816, 1, "2d303675f6840f807487df98e8088d3a04245f47bda7f34ea0c9bb653692f412") -- Call of Duty: Modern Warfare - Content
+addappid(2117821, 1, "267e8b1ff50dbb5872f6a9da7ac339b60f2da935f84d7f791410ce316236f15a") -- Call of Duty: Modern Warfare - Content
+addappid(2117826, 1, "c481044532c59f9b2e0af0a6711b90e49f5ce7a8bf2c989fe5946606b44dbe07") -- Call of Duty: Modern Warfare - Content
+addappid(2117831, 1, "93198d1d90d595e514bcb9e242439c46ba943f77346489d6bdfc0114f86238ca") -- Call of Duty: Modern Warfare - Content
+addappid(2117836, 1, "7a4d7f0b29f5ae718a6046a8ca96b5e7deebe6b3a6527778ccbff9d2f65c998e") -- Call of Duty: Modern Warfare - Content
+addappid(2117841, 1, "117ee01c9b1fa6c8781a1cb0bb8a76c4a28dc7e2a8709ac20aad7920f73db3da") -- Call of Duty: Modern Warfare - Content
+addappid(2117846, 1, "4b11035eeee6eef4bafe2a3ad6ceb3691cfc30c0c02dc06cecd9ee85e7b6f1a5") -- Call of Duty: Modern Warfare - Content
+addappid(2117851, 1, "81d9112968df1dfd132366531852836e08832b09f92970ea4c5ef1bf51c437fb") -- Call of Duty: Modern Warfare - Content
+addappid(2117856, 1, "2070c9e68c871aa68a80cfb90af341340f4aac051bfc638c46ef387694fd6c18") -- Call of Duty: Modern Warfare - Content
+addappid(2117861, 1, "184f7159bded625641def2afebefdaf67ddabb66ef4171e2da259c603ff931c6") -- Call of Duty: Modern Warfare - Content
+addappid(2117862, 1, "79b285054c897e6204fa34bbb97a2e55b76e2c8e30b94bcb5d3646b1389fe170") -- Call of Duty: Modern Warfare - Content
+addappid(2117863, 1, "34b7468e556b723f4dc0d8416bfe6dcaf8f6974fbc59bd2519f804250db7da88") -- Call of Duty: Modern Warfare - Content
+addappid(2117866, 1, "e9ef0c6b43a6035e487925421609ca5234e23e8cc7c70a81654f2cd08caa7095") -- Call of Duty: Modern Warfare - Content
 
 -- DLCs with Content (4)
 addappid(2117480, 1, "b30d7e9f980080a493cc6d9f996d7bbe6cc08a39f308269511e3f105169785a5") -- Call of Duty Modern Warfare - Campaign
