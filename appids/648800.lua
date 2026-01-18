@@ -1,5 +1,5 @@
 -- Raft
--- AppID 648800 | Generated on 2026-01-10 00:07 UTC | openlua.cloud
+-- AppID 648800 | Generated on 2026-01-10 00:07 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
 -- Main Application

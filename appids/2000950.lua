@@ -1,5 +1,5 @@
 -- Call of Duty:Modern Warfare
--- AppID 2000950 | Generated on 2026-01-14 18:35 UTC | openlua.cloud
+-- AppID 2000950 | Generated on 2026-01-14 18:35 UTC | steamuck.com
 
 -- Main Application
 addappid(2000950)

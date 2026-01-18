@@ -1,5 +1,5 @@
 -- Manor Lords
--- AppID 1363080 | Generated on 2026-01-15 16:54 UTC | openlua.cloud
+-- AppID 1363080 | Generated on 2026-01-15 16:54 UTC | steamuck.com
 -- Note: This game supports Steam Workshop content
 
 -- Main Application

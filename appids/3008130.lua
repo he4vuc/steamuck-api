@@ -1,5 +1,5 @@
 -- Dying Light: The Beast
--- AppID 3008130 | Generated on 2026-01-14 08:42 UTC | openlua.cloud
+-- AppID 3008130 | Generated on 2026-01-14 08:42 UTC | steamuck.com
 
 -- Main Application
 addappid(3008130)

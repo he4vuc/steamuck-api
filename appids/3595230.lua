@@ -1,5 +1,5 @@
 -- Call of Duty: Modern Warfare II
--- AppID 3595230 | Generated on 2026-01-18 12:49 UTC | openlua.cloud
+-- AppID 3595230 | Generated on 2026-01-18 12:49 UTC | steamuck.com
 
 -- Main Application
 addappid(3595230)
