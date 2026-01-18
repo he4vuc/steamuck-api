@@ -1,5 +1,5 @@
--- Call of Duty:Modern Warfare
--- AppID 2000950 | Generated on 2026-01-14 18:35 UTC | steamuck.com
+-- Need for Speed™ Most Wanted
+-- AppID 1262560 | Generated on 2026-01-14 18:35 UTC | steamuck.com
 
 -- Main Application
 addappid(1262560)
