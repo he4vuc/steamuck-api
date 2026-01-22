@@ -18837,6 +18837,13 @@
     "Type": "DLC"
   },
   {
+    "appid": 431730,
+    "name": "Aseprite",
+    "DRM": null,
+    "Workshop": true,
+    "Type": "Application"
+  },
+  {
     "appid": 648800,
     "name": "Raft",
     "DRM": null,
@@ -18845,7 +18852,7 @@
   },
   {
     "appid": 1262560,
-    "name": "Need for Speed™ Most Wanted",
+    "name": "Need for Speed Most Wanted",
     "DRM": null,
     "Workshop": false,
     "Type": null
